@@ -79,8 +79,8 @@ Postings dataset, cleaned and stored in Snowflake.
 
 
 ## 📂 Dataset
-- Source: [Kaggle — Real or Fake Job Postings]
-(https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction)
+- Source: Kaggle — Real or Fake Job Postings
+https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction
 - Records: 17,880
 - Features: 18 columns
 - Target: `fraudulent` (0 = Real, 1 = Fake)
