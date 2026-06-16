@@ -87,5 +87,5 @@ Postings dataset, cleaned and stored in Snowflake.
 
 ## 👤 Author
 - **Name:** Arthi P
-- **LinkedIn:**  (https://www.linkedin.com/in/arthi-palanivel-0b7437264)
-- **GitHub:** (https://github.com/ArthiPalanivel)
+- **LinkedIn:**  https://www.linkedin.com/in/arthi-palanivel-0b7437264
+- **GitHub:** https://github.com/ArthiPalanivel
